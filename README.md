@@ -4,5 +4,6 @@
 - [Data Ethics and Responsible AI](https://docs.google.com/document/d/1NO_x3lC7nIg38YG_6MYXcWnKRakQkuz-/edit?usp=sharing&ouid=103968768361799497959&rtpof=true&sd=true)
 - [Conversation design certificate course for IVA](https://docs.google.com/document/d/18HBAKiLhgZboDtfU_NzvhLMyxFH5KfVN/edit?usp=sharing&ouid=103968768361799497959&rtpof=true&sd=true)
 - [User Experience](https://docs.google.com/document/d/18HBAKiLhgZboDtfU_NzvhLMyxFH5KfVN/edit?usp=sharing&ouid=103968768361799497959&rtpof=true&sd=true)
+- [Supply Chain Fundamentals](https://docs.google.com/document/d/1q5dDYLSWFjz_OpUAM_xhQlTWmQRhVBGxydTOdNrLiz4/edit?usp=sharing)
 
 (in progress)
